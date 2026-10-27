@@ -2,12 +2,15 @@
 
 A simple and complete game created in Unity where you control a ball and navigate through a maze. But be careful–you'll be chased by an enemy!
 
-I developed this game to play around with various game mechanics in the Unity engine, including 3D scenes and objects, menu and title screen with buttons, movement and controls, agent pathfinding, audio, and win and lose states.
+I developed this game to play around with various game mechanics in the Unity Engine, including 3D scenes and objects, menu and title screen with buttons, movement and controls, agent pathfinding, audio, and win and lose states.
 
 Check it out and play the game here: https://play.unity.com/en/games/2e9fb763-14d9-44a7-8351-7e57a3ac0e9d/roll-a-ball-maze-edition
-You can also check out this showcase video:
+
+You can also check out this showcase video: https://youtu.be/d6JR0B0vmOw
 
 This game is modified from Unity's "Roll-a-Ball" tutorial project. All game assets are taken directly from the tutorial scene.
+
+<img width="1478" height="908" alt="Screenshot 2026-10-26 at 11 24 49 PM" src="https://github.com/user-attachments/assets/ec2fb3ac-5146-4bb5-b2fa-09f1c12fa181" />
 
 
 # How to Play
