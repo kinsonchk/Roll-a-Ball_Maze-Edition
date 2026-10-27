@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad69ed048e46a47ec82c09a241a4daf0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ambientSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - ambientClip: {fileID: 8300000, guid: ab46f30a024fe46d8872ebe3b2b60927, type: 3}
+  - itemPickupClip: {fileID: 8300000, guid: 790e5aff9ee404632830057251c3f627, type: 3}
+  - gameOverClip: {fileID: 8300000, guid: f36030e6eb563465e991f8e369896646, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
